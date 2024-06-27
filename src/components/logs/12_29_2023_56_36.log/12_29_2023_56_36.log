@@ -1,0 +1,8 @@
+[ 2023-12-29 15:57:23,272 ] 149 tensorflow - WARNING -From C:\Users\HP\AppData\Roaming\Python\Python310\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[ 2023-12-29 15:58:06,670 ] 23 root - INFO -Enter the data ingestion method or component.->
+[ 2023-12-29 15:58:09,381 ] 21 root - INFO -Split Training and Test input data
+[ 2023-12-29 15:58:12,896 ] 149 tensorflow - WARNING -From C:\Users\HP\AppData\Roaming\Python\Python310\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+[ 2023-12-29 15:58:13,806 ] 149 tensorflow - WARNING -From C:\Users\HP\AppData\Roaming\Python\Python310\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
